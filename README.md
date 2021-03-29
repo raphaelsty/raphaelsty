@@ -1,4 +1,4 @@
 - 📚 I’m currently working on Knowledge Graph Embeddings using MKB, CKB
-- 🤓 Love to deploy models or die trying
+- 🤓 Love to deploy models
 - 🤖 Models should learn continuously
 - 📫 How to reach me: raphael.sourty@gmail.com
