@@ -1,4 +1,4 @@
-₁ Working on Knowledge Graph Embeddings using MKB, CKB, Hugging Face.
+₁ Working on Knowledge Graph Embeddings and NLP using Cherche, MKB, CKB, Hugging Face.
 
 ₂ Love modelizing things using ML. Still haven't found the killer feature yet.
 
