@@ -4,4 +4,4 @@
 
 ₃ Love sharing models using APIs. 🙂
 
-My personnal Knowledge Base: [https://raphaelsty.github.io/knowledge](https://raphaelsty.github.io/knowledge)
+₄ [My personnal Knowledge Base.](https://raphaelsty.github.io/knowledge)
