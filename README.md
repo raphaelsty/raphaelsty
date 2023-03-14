@@ -3,3 +3,5 @@
 ₂ Love modelizing things using ML. Still haven't found the killer feature yet.
 
 ₃ Love sharing models using APIs. 🙂
+
+My personnal Knowledge Base: [https://raphaelsty.github.io/knowledge](https://raphaelsty.github.io/knowledge)
