@@ -1,7 +1,12 @@
-₁ Working on Knowledge Graph Embeddings and NLP using Cherche, MKB, CKB, Hugging Face.
+Hello 👋
+
+₁ Passionate about Language Models, Information Retrieval and Knowledge Graphs (PhD).
 
 ₂ Love modelizing things using ML. Still haven't found the killer feature yet.
 
-₃ Love sharing models using APIs. 🙂
+₃ Love sharing models using APIs.
 
-₄ [My personnal Knowledge Base.](https://raphaelsty.github.io/knowledge)
+₄ Strong interest for databases and SQL.
+
+₅ My personal Knowledge Base is available [here](https://raphaelsty.github.io/knowledge).
+
