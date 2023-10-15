@@ -8,5 +8,7 @@ Hello 👋
 
 ₄ Strong interest for databases and SQL.
 
-₅ My personal Knowledge Base is available [here](https://raphaelsty.github.io/knowledge).
+₅ Strong interest for the retrieval augmented generation (RAG) paradigm -> Cherche.
+
+₆ My personal Knowledge Base is available [here](https://raphaelsty.github.io/knowledge).
 
