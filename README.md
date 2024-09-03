@@ -8,7 +8,7 @@ Hello 👋
 
 ₄ Strong interest for databases and SQL.
 
-₅ Strong interest for the retrieval augmented generation (RAG) paradigm -> cherche, neural-cherche, neural-tree
+₅ Strong interest for the retrieval augmented generation (RAG) paradigm -> cherche, neural-cherche, neural-tree, PyLate
 
 ₆ My personal Knowledge Base is available [here](https://raphaelsty.github.io/knowledge).
 
