@@ -14,4 +14,4 @@ Created RAG open-source tools before the hype: [Cherche](https://github.com/raph
 
 My personal Search Engine is updated twice a day and is available @ [Knowledge](https://raphaelsty.github.io/knowledge). 
 
-Welcoming any contributions to those packages 🤗
+Welcoming any contributions 🤗
