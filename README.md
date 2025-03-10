@@ -4,7 +4,7 @@ Doing Research & Development @ LightOn. Prev. ManoMano & Renault.
 
 I hold a PhD in Language Models, Information Retrieval and Knowledge Graphs.
 
-Passionate about Search Engine, Recommender Systems, ML, LLM, VLM, [Neural Cherche](https://github.com/raphaelsty/neural-cherche), [PyLate](https://github.com/lightonai/pylate), [Neural Tree](https://github.com/raphaelsty/neural-tree).
+Passionate about Search Engine, Recommender Systems, ML, LLM, VLM -> [Neural Cherche](https://github.com/raphaelsty/neural-cherche), [PyLate](https://github.com/lightonai/pylate), [Neural Tree](https://github.com/raphaelsty/neural-tree).
 
 Strong interest for databases and SQL -> [DuckSearch](https://github.com/lightonai/ducksearch).
 
