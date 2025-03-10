@@ -12,6 +12,6 @@ Love fancy data visualization: [KG Search](https://github.com/raphaelsty/kgsearc
 
 Created RAG open-source tools before the hype: [Cherche](https://github.com/raphaelsty/cherche).
 
-My personal Search Engine is updated twice a day and is available @ [Knowledge](https://raphaelsty.github.io/knowledge). 
+My personal Search Engine is updated twice a day and is available @ [Knowledge](https://github.com/raphaelsty/knowledge). 
 
 Welcoming any contributions 🤗
