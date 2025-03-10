@@ -1,14 +1,17 @@
-Hello 👋
+Hi 👋
 
-₁ Passionate about Language Models, Information Retrieval and Knowledge Graphs (PhD).
+Doing Research & Development @ LightOn. Prev. ManoMano & Renault.
 
-₂ Love modelizing things using ML. Still haven't found the killer feature yet.
+I hold a PhD in Language Models, Information Retrieval and Knowledge Graphs.
 
-₃ Love sharing models using APIs.
+Passionate about Search Engine, Recommender Systems, ML, LLM, VLM, [neural-cherche](https://github.com/raphaelsty/neural-cherche), [PyLate](https://github.com/lightonai/pylate), [Neural Tree](https://github.com/raphaelsty/neural-tree).
 
-₄ Strong interest for databases and SQL.
+Strong interest for databases and SQL -> [ducksearch](https://github.com/lightonai/ducksearch).
 
-₅ Strong interest for the retrieval augmented generation (RAG) paradigm -> cherche, neural-cherche, neural-tree, PyLate
+Love fancy data visualization: [KG Search](https://github.com/raphaelsty/kgsearch).
 
-₆ My personal Knowledge Base is available [here](https://raphaelsty.github.io/knowledge).
+Created RAG open-source tools before the hype: [cherche](https://github.com/raphaelsty/cherche).
 
+My personal Search Engine is updated twice a day and is available @ [knowledge](https://raphaelsty.github.io/knowledge). 
+
+Welcoming any contributions to those packages 🤗
