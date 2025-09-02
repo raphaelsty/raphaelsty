@@ -14,6 +14,6 @@ Created RAG open-source tools before the hype: [Cherche](https://github.com/raph
 
 My personal Search Engine is updated twice a day and is available @ [Knowledge](https://github.com/raphaelsty/knowledge). 
 
-Enjoy writing efficient code with Rust for Python [FastPlaid](https://github.com/lightonai/fast-plaid), [Le NLP](https://github.com/raphaelsty/lenlp).
+Enjoy writing efficient code with Rust for Python [FastPlaid](https://github.com/lightonai/fast-plaid), [Le NLP](https://github.com/raphaelsty/lenlp), [PyLate RS](https://github.com/lightonai/pylate-rs), 
 
 Welcoming any contributions 🤗
